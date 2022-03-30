@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darf7773
-- 👀 I’m interested in History war, Astronomy and Progaraming
+- 👀 I’m interested in History war, Astronomy and Programing
 - 🌱 I’m currently learning javascript and threejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
