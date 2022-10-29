@@ -2,8 +2,7 @@
 - 👀 I’m interested in History war, Astronomy and Programing
 - 🌱 I’m currently learning javascript and threejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- Programming in react
+- ⌨️ Programming in react
 
 <!---
 Darf7773/Darf7773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
